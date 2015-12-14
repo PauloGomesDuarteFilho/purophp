@@ -2,10 +2,10 @@
 
 class Database
 {
-    private static $dbName 			= 'axitech40';
+    private static $dbName 			= 'axitech00';
     private static $dbHost 			= 'mysql.axitech.com.br';
-    private static $dbUsername 		= 'axitech40';
-    private static $dbUserPassword 	= 'axitech40';
+    private static $dbUsername 		= 'axitech00';
+    private static $dbUserPassword 	= 'axitech00';
     private static $cont  			= null;
      
     public function __construct() {
