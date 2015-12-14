@@ -1,0 +1,19 @@
+input { margin-bottom: 10px }
+a, a:hover {
+	border: none;
+	text-transform: none;
+	text-decoration: none;
+	outline: none;
+	font-style: italic;
+	color: #666
+}
+.center { text-align: center }
+.hidden { display: none }
+.centerH1 {
+	font-size: 30px
+}
+.centerH4 {
+	font-size: 16px;
+	line-height: 20px;
+	padding: 10px 25px 
+}

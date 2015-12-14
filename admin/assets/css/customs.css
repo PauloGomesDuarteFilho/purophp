@@ -1,0 +1,48 @@
+/* Folha customizada de estilos */
+.m20 { margin-top: 20px }
+.bott { margin-bottom: 20px }
+.sidebar { top:30px } .spce { margin-top: 15px }
+.titulo { margin-bottom: 30px !important }
+#mceu_32, #my_tinymce { height: 250px } #mceu_32 iframe { height: 230px }
+.sidebar { padding: 20px 0 0 0 !important; overflow-y: hidden }
+.apresentacao { 
+	padding: 25px 40px 10px 40px;
+	line-height: 20px;
+	text-align: center;
+	font-size: 13px;
+	font-weight: 700
+}
+.infos_cadastro { max-width: 670px }
+.center { text-align: center }
+#lista_dados tr td { padding-top: 15px }
+#lista_dados tr td:last-child { padding-top: 8px }
+.floatButton {
+	float:right !important;
+	margin-top:15px;
+	margin-bottom:40px
+}
+.branco { background-color: #fff }
+.radius { border-radius: 5px }
+.pp15 { padding: 15px }
+.emaildados { float: right; margin-right: 0px }
+.justify { text-align: justify }
+.relative { position: relative }
+.absolute { position: absolute }
+.img100 { max-width: 100%; height: auto }
+.titlemenu { text-align: center }
+
+/* FLOAT PREVIEW */
+.floatPreview {
+	float: right !important;
+	margin-top: 26px !important;
+	margin-right: 25px !important;
+}
+
+.floatPreview a {
+	color: #337AB7;
+	text-decoration: none;
+	text-transform: none;
+	outline: none;
+	border: none;
+	font-weight: 700;
+}
